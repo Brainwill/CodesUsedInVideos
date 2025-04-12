@@ -1,3 +1,5 @@
+Create database TESTjoins
+
 -- Create Departments table
 CREATE TABLE Departments (
     DepartmentID INT PRIMARY KEY,
